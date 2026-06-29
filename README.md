@@ -9,4 +9,5 @@ Predicts F1 race winners using Machine Learning (XGBoost, 97.72% accuracy)
 - Interactive Streamlit UI
 
 ## Live App
-[Click here to try it!](https://f1-race-winner-predictor-74j3eweg5ymmbmtk5quijg.streamlit.app/)
+Click on the link below to try it!
+[F1 Race Winner Predictor](https://f1-race-winner-predictor-74j3eweg5ymmbmtk5quijg.streamlit.app/)
